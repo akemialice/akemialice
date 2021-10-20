@@ -1,6 +1,6 @@
 ### Oi! Eu sou a Akemi ✨
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akemitomioka/)
- <a href = "akemialicetomioka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:akemialicetomioka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Akemi GitHub stats](https://github-readme-stats.vercel.app/api?username=akemialice&show_icons=true&theme=synthwave)
 
