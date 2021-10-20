@@ -1,5 +1,6 @@
 ### Oi! Eu sou a Akemi ✨
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akemitomioka/)
+
 ![Akemi GitHub stats](https://github-readme-stats.vercel.app/api?username=akemialice&show_icons=true&theme=synthwave)
 
 ## Tecnologias que estou estudando:
