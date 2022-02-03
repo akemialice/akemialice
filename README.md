@@ -1,4 +1,4 @@
-### Olá!
+### Olá, eu sou a Akemi!
 #### Estudante de Informática e Scuba Team na Alura, atualmente estudo Java! :)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akemitomioka/)
