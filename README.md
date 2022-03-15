@@ -15,4 +15,4 @@
 
 ### Artigo novo:
 
-(Convenções de nomenclatura: Camel, Pascal, Kebab e Snake case)[https://www.alura.com.br/artigos/convencoes-nomenclatura-camel-pascal-kebab-snake-case]
+[Convenções de nomenclatura: Camel, Pascal, Kebab e Snake case](https://www.alura.com.br/artigos/convencoes-nomenclatura-camel-pascal-kebab-snake-case)
